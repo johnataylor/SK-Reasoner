@@ -1,2 +1,2 @@
-# SKR
+# SK-Reasoner
 Simple Knowledge Reasoner
